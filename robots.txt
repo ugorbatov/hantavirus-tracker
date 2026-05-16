@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://hantavirus-tracker.onrender.com/sitemap.xml
+Sitemap: https://hantavirus-tracker-jnb9.onrender.com//sitemap.xml
